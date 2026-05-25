@@ -74,7 +74,7 @@ CREATE DATABASE expensedb;
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/expensedb
 spring.datasource.username=root
-spring.datasource.password=YOUR_PASSWORD
+spring.datasource.password=****
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
